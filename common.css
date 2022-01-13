@@ -1,10 +1,10 @@
-#green-petal:hover,
-#navy-petal:hover,
-#purple-petal:hover,
-#pink-petal:hover,
-#golden-petal:hover,
-#yellow-petal:hover,
-#sky-petal:hover {
+#green:hover,
+#navy:hover,
+#purple:hover,
+#pink:hover,
+#golden:hover,
+#yellow:hover,
+#sky:hover {
   cursor: pointer;
 }
 
@@ -19,30 +19,30 @@ path,
   transition: 0.25s;
 }
 
-#green-petal:hover #green-bg path {
+#green:hover #green-bg path {
   fill: #78d3a4;
 }
 
-#navy-petal:hover #navy-bg path {
+#navy:hover #navy-bg path {
   fill: #95cee3;
 }
 
-#purple-petal:hover #purple-bg path {
+#purple:hover #purple-bg path {
   fill: #e2cae2;
 }
 
-#pink-petal:hover #pink-bg path {
+#pink:hover #pink-bg path {
   fill: #ffbbe3;
 }
 
-#golden-petal:hover #golden-bg path {
+#golden:hover #golden-bg path {
   fill: #f8af80;
 }
 
-#yellow-petal:hover #yellow-bg path {
+#yellow:hover #yellow-bg path {
   fill: #ffe3a9;
 }
 
-#sky-petal:hover #sky-bg path {
+#sky:hover #sky-bg path {
   fill: #a0e5ff;
 }
